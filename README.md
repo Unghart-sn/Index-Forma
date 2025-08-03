@@ -9,7 +9,6 @@ It serves as the entry point for future formological architectures, visual title
 **Author:** Unhart-sn  
 **Role:** Custos Formae  
 **Scene:** Index-Forma  
-**Address of Trust:** https://github.com/Unhart-sn/Index-Forma
 
 🛈 This is a placeholder for aesthetic structure, visual identifiers, and future declarations of form.
 
