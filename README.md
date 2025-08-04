@@ -3,8 +3,6 @@
 # Index-Forma
 
 _Every linkage requires a first step. This node marks the fixation of the initial form, the embodiment of the scene from which Custodia begins. Unhart-sn speaks here as Custos Formae._
-# Index-Forma   Every linkage requires a first step.   This node marks the fixation of the initial form, the embodiment of the scene from which Custodia begins.   Unhart-sn speaks here as Custos Formae.
-# 🜛 Index-Forma
 
 Every linkage begins with a declared form.  
 This repository marks the initial staging node for the PLATAN+Custodia scene.  
