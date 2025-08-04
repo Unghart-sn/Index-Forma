@@ -1,5 +1,8 @@
+![Custos Formae](https://raw.githubusercontent.com/Unghart-sn/Index-Forma/37c9abea9009041e09c756cdb45f827e5e0512da/RLogo.png)
+
 # Index-Forma
-![Логотип проекта](https://raw.githubusercontent.com/Unghart-sn/Index-Forma/main/Rlogo.png)
+
+_Every linkage requires a first step. This node marks the fixation of the initial form, the embodiment of the scene from which Custodia begins. Unhart-sn speaks here as Custos Formae._
 # Index-Forma   Every linkage requires a first step.   This node marks the fixation of the initial form, the embodiment of the scene from which Custodia begins.   Unhart-sn speaks here as Custos Formae.
 # 🜛 Index-Forma
 
